@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+	margin: auto;
+	max-width: 50%;
+}
+
+li {
+	list-style-type: none;
+}
+
+nav {
+	border: 1px solid black;
+	background-color: yellow;
+}
+
+div {
+	border: 1px solid black;
+	background-color: yellow;
+}
+
+#foto_oostenrijk, #foto_werk {
+	width: 1024px;
+}
